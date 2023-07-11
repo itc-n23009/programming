@@ -1,1 +1,2 @@
-pow(*divmod(20, 3))
+result = pow(*divmod(20, 3))
+print(result)
