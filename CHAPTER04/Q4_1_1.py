@@ -5,5 +5,4 @@ def fib(n):
     while a < n:
         c = a + b
         print(c)
-        a = b
-        b = c
+        a, b = b, c
