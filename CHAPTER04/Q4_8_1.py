@@ -1,11 +1,7 @@
-def show_begin_end(func):
-    """ """
+import calendar
 
-    def deco_func(*args, **kwargs):
-        """ """
-        print("== start")
-        result = func(*args, **kwargs)
-        print("== end")
-        return result
-
-    return deco_func
+cal = calendar.TextCalendar(calendar.SUNDAY)
+year = 2023
+month = 8
+cal_str = cal.formatmonth(year, month)
+print(cal_str)
