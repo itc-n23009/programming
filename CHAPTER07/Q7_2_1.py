@@ -13,4 +13,4 @@ my_list = ["a", "b", "c", "d"]
 list_del_nth(my_list, "5")
 list_del_nth(my_list, 5)
 list_del_nth(my_list, 0)
-my_list
+print(my_list)
