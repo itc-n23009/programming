@@ -80,7 +80,7 @@
 ### 第8章　標準ライブラリ
 
 * 8.1 os ([問題１](CHAPTER08/Q8_1_1.py), [問題２](CHAPTER08/Q8_1_2.py))
-* 8.2 pathlib
+* 8.2 pathlib ([問題１](CHAPTER08/Q8_2_1.py), [問題２](CHAPTER08/Q8_2_2.py))
 * 8.3 collections
 * 8.4 re
 * 8.5 math／statistics
